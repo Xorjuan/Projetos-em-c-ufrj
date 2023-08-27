@@ -11,7 +11,7 @@
             case 2:
             scanf("%d", &ano);
             
-            if(ano%4==0 && ano%100==0){
+            if(ano%4==0 && ano%100==0!=400){
                 printf("fevereiro tem 30 dias");
             }else{
             printf("fevereiro tem 28 dias");
