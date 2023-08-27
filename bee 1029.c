@@ -13,7 +13,7 @@
         x=z;
         z=y;
         
-        printf("%d", );
+        printf("%d", z);
     }
     //printf("%d", aux);
     return 0;
